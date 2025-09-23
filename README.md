@@ -1,1 +1,1 @@
-#My-Practice is folder that have my python codes for training.
+#My-Practice is a folder that has my Python codes for training.
