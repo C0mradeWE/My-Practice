@@ -1,0 +1,4 @@
+# Instagram OSINT Tool Dependencies, Install all with pip -r requirements.txt
+instaloader>=4.15.1
+requests>=2.32.3
+termcolor>=2.5.0
