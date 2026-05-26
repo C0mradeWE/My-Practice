@@ -33,8 +33,8 @@ Instagram OSINT Tool is a command-line tool for extracting public information fr
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/0xhijazy/0xPractice.git
-cd 0xPractice
+git clone https://github.com/0xhijazy/Instagram-OSINT
+cd Instagram-OSINT
 
 ```
 ### 2. Install requirements
